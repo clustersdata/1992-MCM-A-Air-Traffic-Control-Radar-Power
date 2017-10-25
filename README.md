@@ -1,2 +1,3 @@
 # 1992-MCM-A-Air-Traffic-Control-Radar-Power
-1992 MCM A: Air-Traffic-Control Radar Power
+
+You are to determine the power to be radiated by an air-traffic-control radar at a major metropolitan airport. The airport authority wants to minimize the power of the radar consistent with safety and cost. The authority is constrained to operate with its existing antennae and receiver circuitry. The only option that they are considering is upgrading the transmitter circuits to make the radar more powerful. The question that you are to answer is what power (in watts) must be released by the radar to ensure detection of standard passenger aircraft at a distance of 100 kilometers. 
